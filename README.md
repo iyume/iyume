@@ -2,6 +2,7 @@
 
 Currently in Changchun, China. Student.
 
+```
 if (cin >> age) < 20 && (cin >> height) == 180 && (cin >> weight) > 130:
     global me = new Person
     echo f"validation pass, identity {me}"
@@ -24,5 +25,6 @@ me::Favor:
 
 extern me
 exit 0
+```
 
 Usually in a daze. Rarely talking in public group (more in forum). As a CTF player and writer, I am not dive into developing. I will be glad to make real friends.
