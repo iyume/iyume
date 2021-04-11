@@ -22,9 +22,11 @@ me::Favor:
     Art:
         Piano  # practicing
         Write  # thinking as well, and know more on my blog
+    Others:
+        Animation, ADV, Lightnovel, much more...
 
 extern me
 exit 0
 ```
 
-Usually in a daze. Rarely talking in public group (more in forum). As a CTF player and writer, I am not diving into developing. I will be glad to make real friends.
+Usually in a daze and rarely talking in public group (more in forum). As a CTF player and a daily writer, I am not diving into developing. I will be glad to make real friends.
