@@ -27,4 +27,4 @@ extern me
 exit 0
 ```
 
-Usually in a daze. Rarely talking in public group (more in forum). As a CTF player and writer, I am not dive into developing. I will be glad to make real friends.
+Usually in a daze. Rarely talking in public group (more in forum). As a CTF player and writer, I am not diving into developing. I will be glad to make real friends.
