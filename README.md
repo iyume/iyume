@@ -1,1 +1,3 @@
-call_api('bio', method='DELETE')
+```python
+me.call_api('bio', method='DELETE')
+```
