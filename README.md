@@ -35,7 +35,7 @@
 - (2021) https://github.com/iyume/nonebot-plugin-arcaea Arcaea game queryer based on NoneBot, BotArcAPI.
 - (2021) https://github.com/iyume/full-stack-answering-system Full-stack answering system.
 
-**My School Works**
+**My School Works and AI**
 
 - (2023) https://github.com/iyume/brain-age-prediction-application Brain age prediction using IXI T1-weighted MRI datasets. Use Tauri, Vue3 as frontend, FastAPI as backend. Use Vite, Naive UI, etc.
 - (2023) https://github.com/iyume/food-semantic-segmentation Semantic segmentation for common chinese food. Using PyTorch, UNet, PyQt5.
