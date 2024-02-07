@@ -25,19 +25,3 @@
 ![](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=fff)
 ![](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-
-**My Projects**
-
-- (2023) https://github.com/iyume/nonebot-plugin-nsfw NSFW image detector using safety-checker / NSFW-model.
-- (2023) https://github.com/iyume/dapp-chat Decentralized chat application using go-ethereum(devp2p), IPFS, Vue3, encrypted with ECDH and SM4 CTR.
-- (2022) https://github.com/iyume/nonebot-plugin-wordle-daily Wordle game implementation in NoneBot.
-- (2022 **\*LTS**) https://github.com/nonebot/nb-autodoc Python API documentation generator for NoneBot.
-- (2021) https://github.com/iyume/nonebot-plugin-arcaea Arcaea game queryer based on NoneBot, BotArcAPI.
-- (2021) https://github.com/iyume/full-stack-answering-system Full-stack answering system.
-
-**My School Works and AI**
-
-- (2023) https://github.com/iyume/brain-age-prediction-application Brain age prediction using IXI T1-weighted MRI datasets. Use Tauri, Vue3 as frontend, FastAPI as backend. Use Vite, Naive UI, etc.
-- (2023) https://github.com/iyume/food-semantic-segmentation Semantic segmentation for common chinese food. Using PyTorch, UNet, PyQt5.
-- (2022) https://github.com/iyume/image-fusion Approach to infrared and visible image fusion using Auto-Encoder, MSRS dataset.
-- (2021) https://github.com/moyu832/2021-04-23-exp Book management system.
