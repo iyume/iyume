@@ -6,6 +6,8 @@
 - 👯 I’m collaborating on [NoneBot](https://github.com/nonebot)
 - 💬 Ask me about [nb-autodoc](https://github.com/nonebot/nb-autodoc)
 
+![](https://wakatime.com/badge/user/7fd2bc63-e573-4f00-9c97-b378584044b7.svg)
+
 **My Skills**
 
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
