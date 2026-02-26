@@ -1,6 +1,6 @@
 ### Hi 👋, I'm **iyume**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iyume&count_private=true&show_icons=true&title_color=0080ff&text_color=000000&bg_color=f5f5fa&locale=en" alt="iyume" />
+<img align="right" src="https://github-readme-stats-mcxkhokhi-iyumes-projects.vercel.app/api?username=iyume&count_private=true&show_icons=true&title_color=0080ff&text_color=000000&bg_color=f5f5fa&locale=en" alt="iyume" />
 
 - 🌱 I’m currently learning Database, ASM
 - 👯 I’m collaborating on [NoneBot](https://github.com/nonebot)
